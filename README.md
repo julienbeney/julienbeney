@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julienbeney
-- 👀 I’m interested in DevOps, ML, sport as well 
-- 🌱 I’m currently learning Infra as a Code
+- 👀 I’m interested in DevOps, ML, crypto, nft 
+- 🌱 I’m currently learning Infra as a Code, blockchain, web3
 - 💞️ I’m looking to collaborate on ML project
 - 📫 Telegram me @SIONROUEARRIERE
 
