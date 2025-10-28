@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julienbeney
-- 👀 I’m interested in tech
-- 🌱 I’m currently grinding
-- 📫 Telegram me @SIONROUEARRIERE
+- 🌱 I’m currently grinding 
+- 📫 Telegram me @iconofint
 
 <!---
 julienbeney/julienbeney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
